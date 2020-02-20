@@ -15,3 +15,4 @@ var projects = require('../projects.json');
  	console.log(projects);
  	response.render('index', projects);
  };
+ 
